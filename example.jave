@@ -32,7 +32,7 @@ public class HelloController {
 <html>
 <head>
 <<<<<<< HEAD
-    <title>This is the main branch</title>
+    <title>hello World</title>
 
 =======
 <!DOCTYPE html>
