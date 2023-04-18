@@ -32,10 +32,8 @@ public class HelloController {
 <html>
 <head>
 <<<<<<< HEAD
-    <title>This is the feature branch</title>
-=======
-    <title>Hello Welcome to Dev Branch</title>
->>>>>>> devbranch
+    <title>This is the main branch</title>
+
 =======
 <!DOCTYPE html>
 <html>
